@@ -1,4 +1,4 @@
-## Solidity Task Publishing Platform
+## Solidity任务发布平台
 
 这是一个基于Solidity编写的任务发布平台。  用户可以发布任务，其他用户可以接受并完成这些任务，以获得奖励。  该平台使用web3.js和Node.js来实现接口。
 
